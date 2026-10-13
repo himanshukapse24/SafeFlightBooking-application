@@ -91,7 +91,7 @@ As shown in the following image, you can enter your full name, email address and
 <img width="500" height="350" alt="Screenshot 2026-04-02 at 21 49 00" src="https://github.com/user-attachments/assets/b383f92f-73ce-4cc6-8f0d-156d8ed15bce" />
 
 ### 2. Search for Flights
-After you log in, the following page will show up. You can choose to search for either single trip or round trip. Then you need to enter the From City(Source), ToC ity(Destination), Travel Date and Return Date (in the case of round trip). 
+After you log in, the following page will show up. You can choose to search for either single trip or round trip. Then you need to enter the From City(Source), To City(Destination), Travel Date and Return Date (in the case of round trip). 
 Then you can click the search button to view the search results.
 
 **Note**: The initial data is provided in /backend/src/main/java/com/safeflight/backend/config/DataSeeder.java file. Only the flights provided in that file will be displayed as search results.
