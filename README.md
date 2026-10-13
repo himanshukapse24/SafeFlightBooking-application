@@ -143,10 +143,4 @@ limited to GitHub Copilot, ChatGPT, or Claude Code or anyother) to generate, aut
 
 Student Names :
 
-  Kartik Sharma \
-  Himanshu Kapse \
-  Shresha Lakshman \
-  Angad Singh Gurnam Singh \
-  Yang Fu \
-  Mohammad Umar
-
+  Himanshu Kapse
